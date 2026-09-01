@@ -1,0 +1,24 @@
+{
+	"name": "open-components",
+	"version": "1.0.0",
+	"description": "HTML components created using Tailwind CSS and daisyUI",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/edwin-mrdigital/open-components.git"
+	},
+	"keywords": [],
+	"author": "Edwin",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/edwin-mrdigital/open-components/issues"
+	},
+	"homepage": "https://github.com/edwin-mrdigital/open-components#readme",
+	"dependencies": {
+		"@tailwindcss/cli": "^4.3.3",
+		"tailwindcss": "^4.3.3"
+	}
+}
